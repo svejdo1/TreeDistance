@@ -1,0 +1,2 @@
+.NET library for calculating tree distances. Supports multiple strategies (Zhang and Shasha, Klein, Pawlik and Augsten).
+Ported to .NET from Java from http://www.inf.unibz.it/dis/projects/tree-edit-distance
